@@ -9,12 +9,12 @@ Install `@mugo-agency/svgo-config`:
 
 **With Yarn**
 ```
-yarn add --dev stylelint @mugo-agency/svgo-config
+yarn add --dev @mugo-agency/svgo-config
 ```
 
 **With npm**
 ```
-npm install stylelint @mugo-agency/svgo-config --save-dev
+npm install @mugo-agency/svgo-config --save-dev
 ```
 
 ## Usage
